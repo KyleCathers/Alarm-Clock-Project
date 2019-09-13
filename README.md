@@ -1,7 +1,9 @@
 # Alarm Clock Project
 2nd Year Alarm Clock Project
 
-![Alarm-Clock](https://github.com/KyleCathers/Alarm-Clock-Project/blob/master/Alarm-Clock.jpg)
+<p align="center">
+  <img width="749" height="459" src="https://github.com/KyleCathers/Alarm-Clock-Project/blob/master/Alarm-Clock.jpg">
+</p>
 
 # Project Desciption
 
