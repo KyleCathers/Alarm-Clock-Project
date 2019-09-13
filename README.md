@@ -1,6 +1,8 @@
 # Alarm Clock Project
 2nd Year Alarm Clock Project
 
+![Alarm-Clock](https://github.com/KyleCathers/Alarm-Clock-Project/blob/master/Alarm-Clock.jpg)
+
 # Project Desciption
 
 Our alarm clock project has various components that all come together in one complete system. 
